@@ -2,7 +2,7 @@ import time
 from board import * 
 import adafruit_dht
 
-dhtDevice = adafruit_dht.DHT11(D4, use_pulseio=False)
+dhtDevice = adafruit_dht.DHT11(D4, use_pulseio=True)
 
 while True:
     try:
