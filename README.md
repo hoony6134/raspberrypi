@@ -7,3 +7,7 @@
 * 라즈베리파이 설정 열기: sudo raspi-config
 * [추가자료-인터넷검색해서 나온 것](https://m.blog.naver.com/PostView.nhn?blogId=jinny444&logNo=220929299595&proxyReferer=)
 * [비밀번호 바꾸기](https://withcoding.com/49)
+* sudo apt upgrade: 소프트웨어 업그레이드
+* sudo apt update: OS 업데이트
+* sudo reboot / sudo shutdown -r now : 재부팅
+* sudo halt / sudo shutdown -h now : 종료
